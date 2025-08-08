@@ -1,2 +1,3 @@
 Initial content
-Amending the remote repository.
+Amending the remote repository. ( fetch )
+Updating one more text to our remote repository. ( Pull )
